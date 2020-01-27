@@ -32,4 +32,8 @@ function showMenu() {
     //		}
 }
 
+function left() {
+    
+}
+
 Menu();
